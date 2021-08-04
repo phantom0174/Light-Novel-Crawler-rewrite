@@ -34,7 +34,7 @@ class WenkuCrawler(scrapy.Spider):
         # stage: fetch_novel_detail
         self.novel_name = ''
         self.novel_export_folder = ''
-
+        
         self.book_titles = []
         self.book_chapter_count = []
 
