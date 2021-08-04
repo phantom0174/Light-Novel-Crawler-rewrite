@@ -1,0 +1,3 @@
+Scrapy>=2.5.0
+OpenCC>=1.1.1
+itemadapter>=0.3.0
